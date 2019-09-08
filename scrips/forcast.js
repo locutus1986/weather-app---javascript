@@ -1,4 +1,4 @@
-const key = 'Get your own key';
+const key = '';
 
 // get weather info
 const getWeather = async (id) => {
